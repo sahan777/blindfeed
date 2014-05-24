@@ -69,7 +69,8 @@
                     <div class="panel-heading">
                         <h3 class="panel-title">Paragraph Reading</h3>
                     </div>
-                    <div class="panel-body" >
+                    <div class="panel-body"y>
+                        <p style="font-size: 15px;">
                         It is a long established fact that a reader will be
                         distracted by the readable content of a page when
                         looking at its layout. The point of using Lorem Ipsum
@@ -81,6 +82,8 @@
                         l uncover many web sites still in their infancy. Various versions
                         have evolved over the years, sometimes by accident, sometimes
                         on purpose (injected humour and the like).
+                        </p>
+                        
                     </div>
                 </div>
             </div>
