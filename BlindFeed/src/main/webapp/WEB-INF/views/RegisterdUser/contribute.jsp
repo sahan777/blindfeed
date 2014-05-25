@@ -63,6 +63,46 @@
       <div class="jumbotron">
         <h1>contribute</h1>
         <p>show paragraph and recording module should be here...</p>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="panel panel-primary">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Paragraph Reading</h3>
+                    </div>
+                    <div class="panel-body"y>
+                        <p style="font-size: 15px;">
+                        It is a long established fact that a reader will be
+                        distracted by the readable content of a page when
+                        looking at its layout. The point of using Lorem Ipsum
+                        is that it has a more-or-less normal distribution of
+                        letters, as opposed to using 'Content here, content
+                        here', making it look like readable English. Many desktop
+                        publishing packages and web page editors now use Lorem Ipsum
+                        as their default model text, and a search for 'lorem ipsum' wil
+                        l uncover many web sites still in their infancy. Various versions
+                        have evolved over the years, sometimes by accident, sometimes
+                        on purpose (injected humour and the like).
+                        </p>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="panel panel-primary">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Record Player</h3>
+                    </div>
+                    <div class="panel-body">
+                        <h4 class="text-info">Record Player</h4>
+                        <button class="glyphicon glyphicon-play">  </button>
+                        <button class="glyphicon glyphicon-stop">  </button>
+                        <button class="glyphicon glyphicon-pause">  </button>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        
       </div>
       <div class="container">
         <center><p class="text-muted">Deadlock product - BlindFeed</p></center>
